@@ -3,6 +3,7 @@
 ### Go and fork this repo.
 
 After that go and copy the link of the forked repo.
+Go to terminal of your IDE and use the code, replace <your_username> with your github profile username.
 
 ```
 git clone https://github.com/<your_username>/Assignments
